@@ -1,0 +1,1 @@
+# Sindhi-2-Sindhi-Dictrionary
