@@ -7,6 +7,7 @@ from google import genai
 st.set_page_config(page_title="Sindhi Dictionary", page_icon="📘")
 
 st.title("📘 Sindhi To Sindhi Dictionary")
+st.title("🧠 Created by Irshad Ali Siper")
 st.write("Write any Sindhi word to get its meaning.")
 
 # User enters API key
